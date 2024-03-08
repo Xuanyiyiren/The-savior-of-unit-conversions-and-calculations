@@ -8,3 +8,5 @@ Here are some useful referance
 `astropy` is a strong package for astronomy. The following may not be it's main usage.
 
 `astropy.units` can help us to do calculations with units. `astropy.constants` stored some usful physical constants.
+
+I write some examples in my jupyter notebook. You can have a look.
